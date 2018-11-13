@@ -225,6 +225,7 @@ Langauge Name | Geographic Area | Wikipedia Link
 
 # Links Elsewhere
 * [First Voices](https://www.firstvoices.com/explore/FV/sections/Data) - As of 16 Oct. 2018, this site has basic vocabulary and resources for 49 First Nation languages (Canada).
+* [ONYOTA’A:KÁ:](http://www.oneidaindiannation.com/onyotaakalanguage/)
 * [North American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/namerim.htm)
 * [Central American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/mamerim.htm)
 * [South American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/samerim.htm)
@@ -239,3 +240,6 @@ Langauge Name | Geographic Area | Wikipedia Link
 * [Language - The Klamath Tribes](http://klamathtribes.org/language/)
 * [Aschmann, Herman P. Totonaco Phonemes. International Journal of American Linguistics. Vol. 12, No. 1 (Jan., 1946), pp. 34-43](https://www.jstor.org/stable/1263023)
 * [Proto Utian Grammar and Dictionary: With Notes on Yokuts](https://books.google.com/books?id=lV3nBQAAQBAJ&pg=PA27&lpg=PA27&dq=Evidence+for+Yok-Utian&source=bl&ots=WShNsjgfSJ&sig=SXJaW8dg1Y6OftAK3ODDnb1JbzQ&hl=en&sa=X&ved=2ahUKEwjZoNPJw4TeAhUR_1QKHS2oA9sQ6AEwBnoECAgQAQ#v=onepage&q=Evidence%20for%20Yok-Utian&f=false)
+* [Welcome to the Ioway, Otoe-Missouria Language Website](http://www.iowayotoelang.nativeweb.org/)
+* [Ioway Cultural Institute : Language](http://ioway.nativeweb.org/language/index.htm)
+* [official website of the Otoe-Missouria tribe’s Language Department](http://www.omlanguage.org/)
