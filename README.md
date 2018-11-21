@@ -40,7 +40,7 @@ Langauge Name | Geographic Area | Wikipedia Link | Sub-families | Child Language
 [Araucanian](https://glottolog.org/resource/languoid/id/arau1255) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Araucanian_languages) |  0 | 2
 [Arawakan](https://glottolog.org/resource/languoid/id/araw1281) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Arawakan_languages) | 46 | 78
 [Arawan](https://glottolog.org/resource/languoid/id/araw1282) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Arawan_languages) | 2 | 6
-[Athabaskan-Eyak-Tlingit](https://glottolog.org/resource/languoid/id/atha1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Na-Dene_languages) | 16 | 45
+[Athabaskan-Eyak-Tlingit (Na-Dene)](https://glottolog.org/resource/languoid/id/atha1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Na-Dene_languages) | 16 | 45
 [Aymaran](https://glottolog.org/resource/languoid/id/ayma1253) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Aymaran_languages) | 1 | 3
 [Barbacoan](https://glottolog.org/resource/languoid/id/barb1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Barbacoan_languages) | 3 | 6
 [Boran](https://glottolog.org/resource/languoid/id/bora1262) | South America | | 0 | 2
@@ -85,7 +85,7 @@ Langauge Name | Geographic Area | Wikipedia Link | Sub-families | Child Language
 [Matacoan](https://glottolog.org/resource/languoid/id/mata1289) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Matacoan_languages) | 4 | 7
 [Mayan](https://glottolog.org/resource/languoid/id/maya1287) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Mayan_languages) | 24 | 33
 [Misumalpan](https://glottolog.org/resource/languoid/id/misu1242) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Misumalpan_languages) | 3 | 5
-[Miwok-Costanoan](https://glottolog.org/resource/languoid/id/miwo1274) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Utian_languages) | 6 | 11
+[Miwok-Costanoan (Utian)](https://glottolog.org/resource/languoid/id/miwo1274) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Utian_languages) | 6 | 11
 [Mixe-Zoque](https://glottolog.org/resource/languoid/id/mixe1284) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Mixe%E2%80%93Zoque_languages) | 9 | 19
 [Muskogean](https://glottolog.org/resource/languoid/id/musk1252) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Muskogean_languages) | 2 | 7
 [Nadahup](https://glottolog.org/resource/languoid/id/nada1235) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nadahup_languages) | 2 | 4
@@ -222,6 +222,20 @@ Langauge Name | Geographic Area | Wikipedia Link
 [Yurumanguí](https://glottolog.org/resource/languoid/id/yuru1243) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Yurumangu%C3%AD_language)
 [Zuni](https://glottolog.org/resource/languoid/id/zuni1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Zuni_language)
 
+# Hypothesized [Macrofamilies](https://en.wikipedia.org/wiki/Macrofamily)
+
+These could change at the drop of a hat.
+
+* [Aztec–Tanoan languages](https://en.wikipedia.org/wiki/Aztec%E2%80%93Tanoan_languages) - 	Uto-Aztecan (Hopi, Tübatulabal, Numic, Serran, Cupan, Tarahumaran, Cahitan, Opata, Corachol, Piman, Nahuan), Kiowa–Tanoan (Tiwa, Tewa, Towa, Kiowa), Zuni(?).
+* [Hokan languages](https://en.wikipedia.org/wiki/Hokan_languages) - Karuk, Shasta-Palaihnihan, Ch’imáriko, Yana, Washo, Esselen, Salinan, Pomoan, Yuman, Seri, Coahuilteco, Comecrudan, Tequistlatecan, Jicaquean (Tolan), Lencan(?), Misumalpan(?) [last two could actually just be part of a sprachbund]
+* [Macro-Chibchan languages](https://en.wikipedia.org/wiki/Macro-Chibchan_languages) - Chibchan, Misulmalpan, Lencan
+* [Penutian languages](https://en.wikipedia.org/wiki/Penutian_languages) - Tsimshian, Chinook, Alsea, Siuslaw, Coos, Utian, Yokutsan, Maidu, Sahaptian, Molala, Klamath
+* [Totozoquean languages](https://en.wikipedia.org/wiki/Totozoquean_languages) - Totonac–Tepehua, Mixe–Zoque, Chitimacha
+* [Macro-Siouan languages](https://en.wikipedia.org/wiki/Macro-Siouan_languages) - Siouan, Yuchi, Caddoan, Iroquoian
+* [Mosan languages](https://en.wikipedia.org/wiki/Mosan_languages) - Chimakuan, Salishan, Wakashan [Considered a language area, as no successful reconstructions have occurred.]
+* [Algonquian–Wakashan languages](https://en.wikipedia.org/wiki/Algonquian%E2%80%93Wakashan_languages) - Algic, Sapir, Kutenai, Mosan, [Nivkh](https://en.wikipedia.org/wiki/Nivkh_language)
+* [Dené–Yeniseian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages#Sicoli_&_Holton_(2014)) - Athabaskan. Tlingit, Eyak, [Yeniseian](https://en.wikipedia.org/wiki/Yeniseian_languages), Haida
+* [Dené–Caucasian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Caucasian_languages) - Dené-Yeniseian (incl. Haida), North Caucasian, Sino-Tibetan, Burushaski, Vasconic, Tyrsenian (sometimes included), Sumerian (sometimes included), Almosan (rarely included) [Bascially spans the entire world.]
 
 # Links Elsewhere
 * [First Voices](https://www.firstvoices.com/explore/FV/sections/Data) - As of 16 Oct. 2018, this site has basic vocabulary and resources for 49 First Nation languages (Canada).
