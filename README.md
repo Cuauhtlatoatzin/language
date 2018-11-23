@@ -233,9 +233,9 @@ These could change at the drop of a hat.
 * [Totozoquean languages](https://en.wikipedia.org/wiki/Totozoquean_languages) - Totonac–Tepehua, Mixe–Zoque, Chitimacha
 * [Macro-Siouan languages](https://en.wikipedia.org/wiki/Macro-Siouan_languages) - Siouan, Yuchi, Caddoan, Iroquoian
 * [Mosan languages](https://en.wikipedia.org/wiki/Mosan_languages) - Chimakuan, Salishan, Wakashan [Considered a language area, as no successful reconstructions have occurred.]
-* [Algonquian–Wakashan languages](https://en.wikipedia.org/wiki/Algonquian%E2%80%93Wakashan_languages) - Algic, Sapir, Kutenai, Mosan, [Nivkh](https://en.wikipedia.org/wiki/Nivkh_language)
+* [Algonquian–Wakashan languages (Almosan)](https://en.wikipedia.org/wiki/Algonquian%E2%80%93Wakashan_languages) - Algic, Sapir, Kutenai, Mosan, [Nivkh](https://en.wikipedia.org/wiki/Nivkh_language)
 * [Dené–Yeniseian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages#Sicoli_&_Holton_(2014)) - Athabaskan. Tlingit, Eyak, [Yeniseian](https://en.wikipedia.org/wiki/Yeniseian_languages), Haida
-* [Dené–Caucasian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Caucasian_languages) - Dené-Yeniseian (incl. Haida), North Caucasian, Sino-Tibetan, Burushaski, Vasconic, Tyrsenian (sometimes included), Sumerian (sometimes included), Almosan (rarely included) [Bascially spans the entire world.]
+* [Dené–Caucasian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Caucasian_languages) - Dené-Yeniseian (incl. Haida), [North Caucasian](https://en.wikipedia.org/wiki/North_Caucasian_languages), [Sino-Tibetan](https://en.wikipedia.org/wiki/Sino-Tibetan_languages), [Burushaski](https://en.wikipedia.org/wiki/Burushaski), [Vasconic](https://en.wikipedia.org/wiki/Vasconic_languages), [Tyrsenian](https://en.wikipedia.org/wiki/Tyrsenian_languages) (sometimes included), [Sumerian](https://en.wikipedia.org/wiki/Sumerian_language) (sometimes included), Almosan (rarely included) [Bascially spans the entire world.]
 
 # Links Elsewhere
 * [First Voices](https://www.firstvoices.com/explore/FV/sections/Data) - As of 16 Oct. 2018, this site has basic vocabulary and resources for 49 First Nation languages (Canada).
