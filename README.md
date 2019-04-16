@@ -2,7 +2,7 @@
 
 The files will likely be an unorganized mess for some time, but there's lots in here. Enjoy!
 
-# Languages Overview
+## Languages Overview
 
 According the to the data over at [Glottolog](https://glottolog.org/glottolog/family), on the so-called "American" continent, there are:
 
@@ -13,7 +13,7 @@ According the to the data over at [Glottolog](https://glottolog.org/glottolog/fa
 
 Excluded are sign languages, mixed languages, artificial languages, and other languages which were not originally indigenous to this continent.
 
-There may have been more langauges present on the continent which became extinct before anyone was able to collect proper attestation (evidence of their existance).
+There may have been more languages present on the continent which became extinct before anyone was able to collect proper attestation (evidence of their existence).
 
 Given the timeline of the presence of hominids on the continent and the nature of how modern humans interbred with other hominids, it's quite possible that many of the language families and language isolates that cannot be traced back to other language families may have come from language families which predated modern humans emergence from Africa 70,000 years ago(it is more complicated than that).
 
@@ -24,7 +24,7 @@ Given the timeline of the presence of hominids on the continent and the nature o
 * [Dediu, Dan, Stephen C. Levinson. On the antiquity of language: the reinterpretation of Neandertal linguistic capacities and its consequences. Front. Psychol., 05 July 2013.](https://www.frontiersin.org/articles/10.3389/fpsyg.2013.00397/full) - The article the started it all.
 * [Hillert, Dieter G. On the Evolving Biology of Language. Front Psychol. 2015; 6: 1796.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656830/)
 * [Interbreeding between archaic and modern humans](https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans)
-* [Introduction to the Cuauhtlatoatzin Indigenous Peoples' History Repository](../README.md#origin-of-modern-humans-and-other-necessary-background)
+* [Introduction to the Cuauhtlatoatzin Indigenous Peoples' History Repository](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history/blob/master/README.md#origin-of-modern-humans-and-other-necessary-background)
 
 ## Proposed classification schemes for indigenous languages of the Americas
 
@@ -222,7 +222,7 @@ Langauge Name | Geographic Area | Wikipedia Link
 [Yurumanguí](https://glottolog.org/resource/languoid/id/yuru1243) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Yurumangu%C3%AD_language)
 [Zuni](https://glottolog.org/resource/languoid/id/zuni1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Zuni_language)
 
-# Hypothesized [Macrofamilies](https://en.wikipedia.org/wiki/Macrofamily)
+## Hypothesized [Macrofamilies](https://en.wikipedia.org/wiki/Macrofamily)
 
 These could change at the drop of a hat.
 
@@ -237,28 +237,10 @@ These could change at the drop of a hat.
 * [Dené–Yeniseian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages#Sicoli_&_Holton_(2014)) - Athabaskan. Tlingit, Eyak, [Yeniseian](https://en.wikipedia.org/wiki/Yeniseian_languages), Haida
 * [Dené–Caucasian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Caucasian_languages) - Dené-Yeniseian (incl. Haida), [North Caucasian](https://en.wikipedia.org/wiki/North_Caucasian_languages), [Sino-Tibetan](https://en.wikipedia.org/wiki/Sino-Tibetan_languages), [Burushaski](https://en.wikipedia.org/wiki/Burushaski), [Vasconic](https://en.wikipedia.org/wiki/Vasconic_languages), [Tyrsenian](https://en.wikipedia.org/wiki/Tyrsenian_languages) (sometimes included), [Sumerian](https://en.wikipedia.org/wiki/Sumerian_language) (sometimes included), Almosan (rarely included) [Bascially spans the entire world.]
 
-# Links Elsewhere
-* [First Voices](https://www.firstvoices.com/explore/FV/sections/Data) - As of 16 Oct. 2018, this site has basic vocabulary and resources for 49 First Nation languages (Canada).
-* [ONYOTA’A:KÁ:](http://www.oneidaindiannation.com/onyotaakalanguage/)
-* [North American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/namerim.htm)
-* [Central American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/mamerim.htm)
-* [South American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/samerim.htm)
-* [Linguistic Map of Canada](http://www.muturzikin.com/cartesusa/canada.htm)
-* [Ameriketako Estatu Batuak](http://www.muturzikin.com/cartesusa/usa.htm)
-* [DIVERSIDAD LINGÜÍSTICA LATINOAMÉRICANA](http://www.muturzikin.com/carteamerique.htm)
-* [Foster, Michael K. “The Impact of Sapir's Six-Phylum Linguistic Scheme on Speculation about North American Indian Culture History: A Bibliographic Essay.” Anthropological Linguistics, vol. 30, no. 1, 1988, pp. 37–67. JSTOR, JSTOR, www.jstor.org/stable/30028923.](https://www.jstor.org/stable/30028923)
-* [Sutter, Faith. A glimpse of lost language. The Harvard Gazette. 24 Aug. 2010](https://news.harvard.edu/gazette/story/2010/08/a-glimpse-of-lost-language/)
-* [Quilter, Jeffrey, et al. Traces of a Lost Language and Number System Discovered on the North Coast of Peru. American Anthropologist. Vol. 112, No. 3. Sep. 2010](https://www.jstor.org/stable/40801594)
-* [The Bipartite Stem Belt: Disentangling Areal and Genetic Correspondences](https://web.archive.org/web/20051001061344/http://darkwing.uoregon.edu/~delancey/papers/bls96.html)
-* [Bibliography of comparative Penutian prepared by Victor Golla for the Comparative Penutian Workshop, University of Oregon, 1994.](https://web.archive.org/web/20050316172031/http://darkwing.uoregon.edu/~delancey/bib/penbib.html)
-* [Language - The Klamath Tribes](http://klamathtribes.org/language/)
-* [Aschmann, Herman P. Totonaco Phonemes. International Journal of American Linguistics. Vol. 12, No. 1 (Jan., 1946), pp. 34-43](https://www.jstor.org/stable/1263023)
-* [Proto Utian Grammar and Dictionary: With Notes on Yokuts](https://books.google.com/books?id=lV3nBQAAQBAJ&pg=PA27&lpg=PA27&dq=Evidence+for+Yok-Utian&source=bl&ots=WShNsjgfSJ&sig=SXJaW8dg1Y6OftAK3ODDnb1JbzQ&hl=en&sa=X&ved=2ahUKEwjZoNPJw4TeAhUR_1QKHS2oA9sQ6AEwBnoECAgQAQ#v=onepage&q=Evidence%20for%20Yok-Utian&f=false)
-* [Welcome to the Ioway, Otoe-Missouria Language Website](http://www.iowayotoelang.nativeweb.org/)
-* [Ioway Cultural Institute : Language](http://ioway.nativeweb.org/language/index.htm)
-* [official website of the Otoe-Missouria tribe’s Language Department](http://www.omlanguage.org/)
+## Software Links
 
-# Software Links
+### Linguistics Data Collection &amp; Analysis
+
 * [UCLA Department of Linguistics Software and Resources](https://linguistics.ucla.edu/research/software/)
 * [Research Software & Tools](https://experimentalfieldlinguistics.wordpress.com/links/software/) &mdash; includes links to further lists of software.
 * [SIL Linguistics Software List](https://www.sil.org/linguistics/linguistics-software)
@@ -284,5 +266,83 @@ These could change at the drop of a hat.
 * [Praat: Doing Phonetics By Computer](https://github.com/praat/praat)
   * [Using Praat for Linguistic Research](http://wstyler.ucsd.edu/praat/)
 * [KTH Speech, Music and Hearing Group Software List](www.speech.kth.se/software/)
-* [International Phonetic Alphabet fonts and keyboards](https://www.gouskova.com/2016/09/04/international-phonetic-alphabet-fonts-and-keyboards/)
-* [Type IPA phonetic symbols](http://ipa.typeit.org/full/) &mdash; web based keybord, but not able to be integrated into a web app.
+
+### Alphabets, Keyboards, Fonts
+
+* Alphabets/Syllabaries/Abugidas:
+  * Alphabet:
+    * [International Phonetic Alphabet chart - Official PDF](https://linguistics.ucla.edu/people/keating/IPA/IPA_Doulos_2018_tooltips.pdf)
+    * [International Phonetic Alphabet chart](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
+    * [IPA Chart with multiple sound samples](https://linguistics.ucla.edu/people/keating/IPA/inter_chart_2018/IPA_2018.html)
+    * [Interactive IPA Chart](http://www.ipachart.com/)
+    * [IPA Chart With Sounds](http://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)
+    * [Wikipedia &mdash; IPA pulmonic consonant chart with audio](https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio)
+    * [Wipedia &mdash; IPA vowel chart with audio](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio)
+    * [Americanist phonetic notation](https://en.wikipedia.org/wiki/Americanist_phonetic_notation)
+    * [For the Past 20 Years, a Santa Ana Man Has Kept the Language of the Aztecs Alive](https://ocweekly.com/for-the-past-20-years-a-santa-ana-man-has-kept-the-language-of-the-aztecs-alive-7710129/) &amp; [Ancient Tongue Linked to Aztec Past](https://www.latimes.com/archives/la-xpm-2006-feb-05-me-nahuatl5-story.html) &mdash; David Vasquez, a Nawatl teacher, came up with a new alphabet.
+  * Syllabary:
+    * [Cherokee syllabary](https://en.wikipedia.org/wiki/Cherokee_syllabary)
+    * [Zapotec](http://www.ancientscripts.com/zapotec.html)
+    * [Maya](http://www.ancientscripts.com/maya.html)
+    * [A Maya Syllabary](http://www.pauahtun.org/MayanGlyphs/syllabary.html)
+    * [Epi-Olmec](http://www.ancientscripts.com/epiolmec.html)
+    * [Teotihuacan](http://www.ancientscripts.com/teotihuacan.html)
+    * [Mixtec](http://www.ancientscripts.com/mixtec.html)
+    * [Aztec](http://www.ancientscripts.com/aztec.html)
+    * [Aztec Writing: How does it really work?](http://nahuatlstudies.blogspot.com/2016/06/aztec-writing-how-does-it-really-work.html)
+  * Abugida:
+    * [Canadian Aboriginal syllabics](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
+    * [Ojibwe syllabics](https://en.wikipedia.org/wiki/Ojibwe_writing_systems#Ojibwe_syllabics)
+    * [Inuktitut syllabics](https://en.wikipedia.org/wiki/Inuktitut_syllabics#Table)
+    * [Blackfoot syllabics](https://en.wikipedia.org/wiki/Blackfoot_language#Syllabic_Writing_System)
+    * [Carrier syllabics](https://en.wikipedia.org/wiki/Carrier_syllabics#Description)
+    * [Unified Canadian Aboriginal Syllabics](https://www.unicode.org/charts/PDF/U1400.pdf)
+    * [Unified Canadian Aboriginal Syllabics Extended](https://www.unicode.org/charts/PDF/U18B0.pdf)
+    * [Un nuevo sistema para la escritura náhuatl](http://www.unifont.org/nahuatl/) &mdash; This is by some random dude who doesn't seem to have any connection to the culture, but linguistically it works well.
+  * Other:
+    * [Quipu](http://www.ancientscripts.com/quipu.html) &amp; [Khipu Database Project](http://khipukamayuq.fas.harvard.edu/)
+* Keyboards:
+  * [International Phonetic Alphabet fonts and keyboards](https://www.gouskova.com/2016/09/04/international-phonetic-alphabet-fonts-and-keyboards/)
+  * [Canadian Aboriginal Keyboard](https://play.google.com/store/apps/details?id=klye.plugin.cr&hl=en_US) &mdash; Android keyboard.
+  * [FirstVoices Keyboards](https://itunes.apple.com/ca/app/firstvoices-keyboards/id1066651145?mt=8) &mdash; iOS keyboard for Canadian First Nations
+  * [Type IPA phonetic symbols](http://ipa.typeit.org/full/) &mdash; web based keybord, but not able to be integrated into a web app.
+* Conversion Tools:
+  * [Syllabics.net](http://www.syllabics.net/)
+* Fonts:
+  * [ScriptSource](https://scriptsource.org/)
+  * [Google Noto Fonts](https://www.google.com/get/noto/)
+  * [Unlocking the Mayan Hieroglyphic Script with Unicode](http://linguistics.berkeley.edu/sei/assets/unlocking-the-mayan-rev6-latest-sept2016.pdf)
+
+## Links Elsewhere
+
+* [Alberta Language Technology Lab: 21st Century Tools for Indigenous Languages](http://altlab.artsrn.ualberta.ca/tools-applications/)
+* [First Voices](https://www.firstvoices.com/explore/FV/sections/Data) - As of 16 Oct. 2018, this site has basic vocabulary and resources for 49 First Nation languages (Canada).
+* [ONYOTA’A:KÁ:](http://www.oneidaindiannation.com/onyotaakalanguage/)
+* [North American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/namerim.htm)
+* [Central American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/mamerim.htm)
+* [South American Languages - Titus Didactica](http://titus.uni-frankfurt.de/didact/karten/amer/samerim.htm)
+* [Linguistic Map of Canada](http://www.muturzikin.com/cartesusa/canada.htm)
+* [Ameriketako Estatu Batuak](http://www.muturzikin.com/cartesusa/usa.htm)
+* [DIVERSIDAD LINGÜÍSTICA LATINOAMÉRICANA](http://www.muturzikin.com/carteamerique.htm)
+* [Foster, Michael K. “The Impact of Sapir's Six-Phylum Linguistic Scheme on Speculation about North American Indian Culture History: A Bibliographic Essay.” Anthropological Linguistics, vol. 30, no. 1, 1988, pp. 37–67. JSTOR, JSTOR, www.jstor.org/stable/30028923.](https://www.jstor.org/stable/30028923)
+* [Sutter, Faith. A glimpse of lost language. The Harvard Gazette. 24 Aug. 2010](https://news.harvard.edu/gazette/story/2010/08/a-glimpse-of-lost-language/)
+* [Quilter, Jeffrey, et al. Traces of a Lost Language and Number System Discovered on the North Coast of Peru. American Anthropologist. Vol. 112, No. 3. Sep. 2010](https://www.jstor.org/stable/40801594)
+* [The Bipartite Stem Belt: Disentangling Areal and Genetic Correspondences](https://web.archive.org/web/20051001061344/http://darkwing.uoregon.edu/~delancey/papers/bls96.html)
+* [Bibliography of comparative Penutian prepared by Victor Golla for the Comparative Penutian Workshop, University of Oregon, 1994.](https://web.archive.org/web/20050316172031/http://darkwing.uoregon.edu/~delancey/bib/penbib.html)
+* [Language - The Klamath Tribes](http://klamathtribes.org/language/)
+* [Aschmann, Herman P. Totonaco Phonemes. International Journal of American Linguistics. Vol. 12, No. 1 (Jan., 1946), pp. 34-43](https://www.jstor.org/stable/1263023)
+* [Proto Utian Grammar and Dictionary: With Notes on Yokuts](https://books.google.com/books?id=lV3nBQAAQBAJ&pg=PA27&lpg=PA27&dq=Evidence+for+Yok-Utian&source=bl&ots=WShNsjgfSJ&sig=SXJaW8dg1Y6OftAK3ODDnb1JbzQ&hl=en&sa=X&ved=2ahUKEwjZoNPJw4TeAhUR_1QKHS2oA9sQ6AEwBnoECAgQAQ#v=onepage&q=Evidence%20for%20Yok-Utian&f=false)
+* [Welcome to the Ioway, Otoe-Missouria Language Website](http://www.iowayotoelang.nativeweb.org/)
+* [Ioway Cultural Institute : Language](http://ioway.nativeweb.org/language/index.htm)
+* [official website of the Otoe-Missouria tribe’s Language Department](http://www.omlanguage.org/)
+* [Language of the Aztecs alive and well in Los Angeles](https://www.international.ucla.edu/lai/article/176131#.WUF2KDeQxaQ)
+* [French Nahuatl Dictionary](http://sites.estvideo.net/malinal/nahuatl.page.html)
+* [Nahuatl Dictionary](https://nahuatl.uoregon.edu/)
+* [Diccionario náhuatl - español en línea en AULEX](https://aulex.org/nah-es/)
+* [Nawatl Scholar](http://nahuatlstudies.blogspot.com/)
+* [Rig Veda Americanus. Sacred songs of the ancient Mexicans, with a gloss in Nahuatl.](http://www.gutenberg.org/files/14993/14993-h/14993-h.htm)
+* [Endangered Language Alliance's Meso-America Languages Project](http://elalliance.org/languages/meso-america/)
+* [FAMSImMesoamerican Language Texts Digitization Project](http://www.famsi.org/research/mltdp/catalog.htm)
+* [Languages and cultures of present-day Mexico: traditional names](http://www.mexico.sil.org/language_culture)
+* [Nahua documents](http://www.mesolore.org/cultures/synopsis/3/Nahua)
+* [Ã‘udzavui documents](http://www.mesolore.org/cultures/synopsis/4/%C3%91udzavui)
