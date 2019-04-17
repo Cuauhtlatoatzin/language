@@ -269,8 +269,8 @@ These could change at the drop of a hat.
 
 ### Alphabets, Keyboards, Fonts
 
-* Alphabets/Syllabaries/Abugidas:
-  * Alphabet:
+* [Alphabets/Syllabaries/Abugidas](https://en.wikipedia.org/wiki/List_of_writing_systems):
+  * [Alphabet](https://en.wikipedia.org/wiki/Alphabet):
     * [International Phonetic Alphabet chart - Official PDF](https://linguistics.ucla.edu/people/keating/IPA/IPA_Doulos_2018_tooltips.pdf)
     * [International Phonetic Alphabet chart](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart)
     * [IPA Chart with multiple sound samples](https://linguistics.ucla.edu/people/keating/IPA/inter_chart_2018/IPA_2018.html)
@@ -279,9 +279,13 @@ These could change at the drop of a hat.
     * [Wikipedia &mdash; IPA pulmonic consonant chart with audio](https://en.wikipedia.org/wiki/IPA_pulmonic_consonant_chart_with_audio)
     * [Wipedia &mdash; IPA vowel chart with audio](https://en.wikipedia.org/wiki/IPA_vowel_chart_with_audio)
     * [Americanist phonetic notation](https://en.wikipedia.org/wiki/Americanist_phonetic_notation)
+    * [Osage script](https://en.wikipedia.org/wiki/Osage_(Unicode_block))
+    * [Osage](https://www.unicode.org/charts/PDF/U104B0.pdf)
     * [For the Past 20 Years, a Santa Ana Man Has Kept the Language of the Aztecs Alive](https://ocweekly.com/for-the-past-20-years-a-santa-ana-man-has-kept-the-language-of-the-aztecs-alive-7710129/) &amp; [Ancient Tongue Linked to Aztec Past](https://www.latimes.com/archives/la-xpm-2006-feb-05-me-nahuatl5-story.html) &mdash; David Vasquez, a Nawatl teacher, came up with a new alphabet.
-  * Syllabary:
+  * [Syllabary](https://en.wikipedia.org/wiki/Syllabary):
     * [Cherokee syllabary](https://en.wikipedia.org/wiki/Cherokee_syllabary)
+    * [Yugtun cursive syllabary](http://skyknowledge.com/yupik.htm) &amp; [Yugtun script](https://en.wikipedia.org/wiki/Yugtun_script)
+    * [Vai Syllabary](https://en.wikipedia.org/wiki/Vai_syllabary) &mdash; Possibly influenced by the Cherokee syllabary
     * [Zapotec](http://www.ancientscripts.com/zapotec.html)
     * [Maya](http://www.ancientscripts.com/maya.html)
     * [A Maya Syllabary](http://www.pauahtun.org/MayanGlyphs/syllabary.html)
@@ -290,7 +294,7 @@ These could change at the drop of a hat.
     * [Mixtec](http://www.ancientscripts.com/mixtec.html)
     * [Aztec](http://www.ancientscripts.com/aztec.html)
     * [Aztec Writing: How does it really work?](http://nahuatlstudies.blogspot.com/2016/06/aztec-writing-how-does-it-really-work.html)
-  * Abugida:
+  * [Abugida](https://en.wikipedia.org/wiki/Abugida):
     * [Canadian Aboriginal syllabics](https://en.wikipedia.org/wiki/Canadian_Aboriginal_syllabics)
     * [Ojibwe syllabics](https://en.wikipedia.org/wiki/Ojibwe_writing_systems#Ojibwe_syllabics)
     * [Inuktitut syllabics](https://en.wikipedia.org/wiki/Inuktitut_syllabics#Table)
@@ -301,6 +305,8 @@ These could change at the drop of a hat.
     * [Un nuevo sistema para la escritura náhuatl](http://www.unifont.org/nahuatl/) &mdash; This is by some random dude who doesn't seem to have any connection to the culture, but linguistically it works well.
   * Other:
     * [Quipu](http://www.ancientscripts.com/quipu.html) &amp; [Khipu Database Project](http://khipukamayuq.fas.harvard.edu/)
+    * [komqwejwi'kasikl &mdash; Miꞌkmaq hieroglyphic writing](https://en.wikipedia.org/wiki/Mi%EA%9E%8Ckmaq_hieroglyphic_writing)
+    * [komqwejwi'kasikl examples](https://web.archive.org/web/20050307222603/http://www.christusrex.org/www1/pater/JPN-micmac.html) &amp; [more komqwejwi'kasikl](https://www.ledevoir.com/culture/arts-visuels/326155/catalogue-d-exposition-90-artefacts-pour-90-ans)
 * Keyboards:
   * [International Phonetic Alphabet fonts and keyboards](https://www.gouskova.com/2016/09/04/international-phonetic-alphabet-fonts-and-keyboards/)
   * [Canadian Aboriginal Keyboard](https://play.google.com/store/apps/details?id=klye.plugin.cr&hl=en_US) &mdash; Android keyboard.
@@ -312,6 +318,7 @@ These could change at the drop of a hat.
   * [ScriptSource](https://scriptsource.org/)
   * [Google Noto Fonts](https://www.google.com/get/noto/)
   * [Unlocking the Mayan Hieroglyphic Script with Unicode](http://linguistics.berkeley.edu/sei/assets/unlocking-the-mayan-rev6-latest-sept2016.pdf)
+  * [Final proposal to encode the Osage script in the UCS](https://www.unicode.org/L2/L2014/14214-n4619-osage.pdf)
 
 ## Links Elsewhere
 
