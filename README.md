@@ -266,6 +266,15 @@ These could change at the drop of a hat.
 * [Praat: Doing Phonetics By Computer](https://github.com/praat/praat)
   * [Using Praat for Linguistic Research](http://wstyler.ucsd.edu/praat/)
 * [KTH Speech, Music and Hearing Group Software List](www.speech.kth.se/software/)
+* [NVIDIA Accelerates Real Time Speech to Text Transcription 3500x with Kaldi](https://devblogs.nvidia.com/nvidia-accelerates-speech-text-transcription-3500x-kaldi/)
+* [Mixed Precision Training for NLP and Speech Recognition with OpenSeq2Seq](https://devblogs.nvidia.com/mixed-precision-nlp-speech-openseq2seq/)
+* [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/recursive-neural-networks-pytorch/)
+* [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](https://devblogs.nvidia.com/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
+* [CUDA Spotlight: GPU-Accelerated Speech Recognition](https://devblogs.nvidia.com/cuda-spotlight-gpu-accelerated-speech-recognition/)
+* [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
+* [Introduction to Neural Machine Translation with GPUs (Part 2)](https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-2/)
+* [Introduction to Neural Machine Translation with GPUs (part 3)](https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-3/)
+* [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/understanding-natural-language-deep-neural-networks-using-torch/)
 
 ### Alphabets, Keyboards, Fonts
 
