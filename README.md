@@ -294,7 +294,7 @@ These could change at the drop of a hat.
   * [Syllabary](https://en.wikipedia.org/wiki/Syllabary):
     * [Cherokee syllabary](https://en.wikipedia.org/wiki/Cherokee_syllabary)
     * [Yugtun cursive syllabary](http://skyknowledge.com/yupik.htm) &amp; [Yugtun script](https://en.wikipedia.org/wiki/Yugtun_script)
-    * [Vai Syllabary](https://en.wikipedia.org/wiki/Vai_syllabary) &mdash; Possibly influenced by the Cherokee syllabary
+    * [Vai Syllabary](https://en.wikipedia.org/wiki/Vai_syllabary) &mdash; African, likely influenced by the Cherokee syllabary
     * [Zapotec](https://web.archive.org/web/20190327090135/http://www.ancientscripts.com/zapotec.html)
     * [Maya](https://web.archive.org/web/20190425131959/http://www.ancientscripts.com/maya.html)
     * [A Maya Syllabary](http://www.pauahtun.org/MayanGlyphs/syllabary.html)
@@ -312,6 +312,7 @@ These could change at the drop of a hat.
     * [Unified Canadian Aboriginal Syllabics](https://www.unicode.org/charts/PDF/U1400.pdf)
     * [Unified Canadian Aboriginal Syllabics Extended](https://www.unicode.org/charts/PDF/U18B0.pdf)
     * [Un nuevo sistema para la escritura náhuatl](http://www.unifont.org/nahuatl/) &mdash; This is by some random dude who doesn't seem to have any connection to the culture, but linguistically it works well.
+    * [Ditema tsa Dinoko](https://en.wikipedia.org/wiki/Ditema_tsa_Dinoko) &mdash; African. Used for writing Souther Bantu Languages. Has many characteristics of the Unified Canadian Syllabics above.
   * Other:
     * [Quipu](http://www.ancientscripts.com/quipu.html) &amp; [Khipu Database Project](http://khipukamayuq.fas.harvard.edu/)
     * [komqwejwi'kasikl &mdash; Miꞌkmaq hieroglyphic writing](https://en.wikipedia.org/wiki/Mi%EA%9E%8Ckmaq_hieroglyphic_writing)
