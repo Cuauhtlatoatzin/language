@@ -318,10 +318,21 @@ These could change at the drop of a hat.
     * [komqwejwi'kasikl &mdash; Miꞌkmaq hieroglyphic writing](https://en.wikipedia.org/wiki/Mi%EA%9E%8Ckmaq_hieroglyphic_writing)
     * [komqwejwi'kasikl examples](https://web.archive.org/web/20050307222603/http://www.christusrex.org/www1/pater/JPN-micmac.html) &amp; [more komqwejwi'kasikl](https://www.ledevoir.com/culture/arts-visuels/326155/catalogue-d-exposition-90-artefacts-pour-90-ans)
 * Keyboards:
+  * [Keyman](https://keyman.com/) &mdash; On screen keyboard supporting over 1000 languages without extending it. Windows, Mac OS, iOS, Android, Linux, and web versions available. Can be extended to support any language. See [Keyman Developer](https://keyman.com/developer/) for more information on extending the keyboard. Would likely need many modifications to support spell checking, autocorrections, speech recognition, and text to speech; would also need a service developed to support such features.
   * [International Phonetic Alphabet fonts and keyboards](https://www.gouskova.com/2016/09/04/international-phonetic-alphabet-fonts-and-keyboards/)
   * [Canadian Aboriginal Keyboard](https://play.google.com/store/apps/details?id=klye.plugin.cr&hl=en_US) &mdash; Android keyboard.
   * [FirstVoices Keyboards](https://itunes.apple.com/ca/app/firstvoices-keyboards/id1066651145?mt=8) &mdash; iOS keyboard for Canadian First Nations
   * [Type IPA phonetic symbols](http://ipa.typeit.org/full/) &mdash; web based keybord, but not able to be integrated into a web app.
+  * Developing customs keyboards (but why when you can use Keyman):
+    * iOS:
+      * [Custom Keyboards](https://developer.apple.com/design/human-interface-guidelines/ios/extensions/custom-keyboards/)
+      * [Custom Keyboard](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/CustomKeyboard.html)
+      * [Creating a Custom Keyboard In IOS…](https://medium.com/swift-india/creating-a-custom-keyboard-in-ios-a75e7d5cc5ef)
+    * Android:
+      * [Create an input method](https://developer.android.com/guide/topics/text/creating-input-method)
+      * [Image keyboard support](https://developer.android.com/guide/topics/text/image-keyboard)
+      * [Let’s build a custom keyboard for Android](https://www.androidauthority.com/lets-build-custom-keyboard-android-832362/)
+      * [Spell checker framework](https://developer.android.com/guide/topics/text/spell-checker-framework) &mdash; This is one thing Keyman can't do, but this could also be combined with Keyman.
 * Conversion Tools:
   * [Syllabics.net](http://www.syllabics.net/)
 * Fonts:
