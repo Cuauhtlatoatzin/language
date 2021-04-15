@@ -34,91 +34,91 @@ Given the timeline of the presence of hominids on the continent and the nature o
 
 All the names link to [Glottolog](https://glottolog.org/), which display a language tree, map, and references for academic research.
 
-Langauge Name | Geographic Area | Wikipedia Link | Sub-families | Child Languages
---------------|-----------------|----------------|--------------|----------------
-[Algic](https://glottolog.org/resource/languoid/id/algi1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Algic_languages) | 18 | 45
-[Araucanian](https://glottolog.org/resource/languoid/id/arau1255) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Araucanian_languages) |  0 | 2
-[Arawakan](https://glottolog.org/resource/languoid/id/araw1281) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Arawakan_languages) | 46 | 78
-[Arawan](https://glottolog.org/resource/languoid/id/araw1282) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Arawan_languages) | 2 | 6
-[Athabaskan-Eyak-Tlingit (Na-Dene)](https://glottolog.org/resource/languoid/id/atha1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Na-Dene_languages) | 16 | 45
-[Aymaran](https://glottolog.org/resource/languoid/id/ayma1253) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Aymaran_languages) | 1 | 3
-[Barbacoan](https://glottolog.org/resource/languoid/id/barb1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Barbacoan_languages) | 3 | 6
-[Boran](https://glottolog.org/resource/languoid/id/bora1262) | South America | | 0 | 2
-[Bororoan](https://glottolog.org/resource/languoid/id/boro1281) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Bororoan_languages) | 1 | 3
-[Caddoan](https://glottolog.org/resource/languoid/id/cadd1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Caddoan_languages) | 3 | 5
-[Cahuapanan](https://glottolog.org/resource/languoid/id/cahu1265) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cahuapanan_languages) | 1 | 3
-[Cariban](https://glottolog.org/resource/languoid/id/cari1283) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cariban_languages) | 22 | 42
-[Chapacuran](https://glottolog.org/resource/languoid/id/chap1271) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chapacuran_languages) | 9 | 12
-[Charruan](https://glottolog.org/resource/languoid/id/char1238) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Charruan_languages) | 0 | 3
-[Chibchan](https://glottolog.org/resource/languoid/id/chib1249) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Chibchan_languages) | 18 | 27
-[Chicham](https://glottolog.org/resource/languoid/id/jiva1245) | South America | | 1 | 4
-[Chimakuan](https://glottolog.org/resource/languoid/id/chim1311) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chimakuan_languages) | 0 | 2
-[Chinookan](https://glottolog.org/resource/languoid/id/chin1490) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chinookan_languages) | 2 | 4
-[Chocoan](https://glottolog.org/resource/languoid/id/choc1280) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Choco_languages) | 6 | 9
-[Chonan](https://glottolog.org/resource/languoid/id/chon1288) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chonan_languages) | 2 | 4
-[Chumashan](https://glottolog.org/resource/languoid/id/chum1262) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chumashan_languages) | 2 | 6
-[Cochimi-Yuman](https://glottolog.org/resource/languoid/id/coch1271) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yuman%E2%80%93Cochim%C3%AD_languages) | 6 | 11
-[Coosan](https://glottolog.org/resource/languoid/id/coos1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Coosan_languages) | 0 | 2
-[Eskimo-Aleut](https://glottolog.org/resource/languoid/id/eski1264) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Eskimo%E2%80%93Aleut_languages) | 5 | 12
-[Guahiboan](https://glottolog.org/resource/languoid/id/guah1252) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Guajiboan_languages) | 2 | 5
-[Guaicuruan](https://glottolog.org/resource/languoid/id/guai1249) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Guaicuruan_languages) | 3 | 5
-[Haida](https://glottolog.org/resource/languoid/id/haid1248) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Haida_language) | 0 | 2
-[Harakmbut](https://glottolog.org/resource/languoid/id/hara1260) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Har%C3%A1kmbut_languages) | 0 | 2
-[Hibito-Cholon](https://glottolog.org/resource/languoid/id/hibi1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Hibito%E2%80%93Cholon_languages) | 0 | 2
-[Huarpean](https://glottolog.org/resource/languoid/id/huar1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Huarpean_languages) | 0 | 2
-[Huavean](https://glottolog.org/resource/languoid/id/huav1256) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Huave_language) | 2 | 4
-[Huitotoan](https://glottolog.org/resource/languoid/id/huit1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Witotoan_languages) | 4 | 7
-[Iroquoian](https://glottolog.org/resource/languoid/id/iroq1247) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Iroquoian_languages) | 3 | 11
-[Jicaquean](https://glottolog.org/resource/languoid/id/jica1245) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Jicaquean_languages) | 0 | 2
-[Jodi-Saliban](https://glottolog.org/resource/languoid/id/jodi1234) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Piaroa%E2%80%93Saliban_languages) | 2 | 4
-[Kakua-Nukak](https://glottolog.org/resource/languoid/id/kaku1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nukak_language) | 0 | 2
-[Kalapuyan](https://glottolog.org/resource/languoid/id/kala1402) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Kalapuyan_languages) | 0 | 3
-[Kamakanan](https://glottolog.org/resource/languoid/id/kama1371) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kamak%C3%A3_languages) | 1 | 4
-[Kariri](https://glottolog.org/resource/languoid/id/kari1254) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kariri_languages) | 0 | 2
-[Katukinan](https://glottolog.org/resource/languoid/id/katu1274) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Katukinan_languages) | 0 | 2
-[Kawesqar](https://glottolog.org/resource/languoid/id/kawe1237) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kaw%C3%A9sqar_language) | 1 | 3
-[Keresan](https://glottolog.org/resource/languoid/id/kere1287) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Keres_language) | 0 | 2
-[Kiowa-Tanoan](https://glottolog.org/resource/languoid/id/kiow1265) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tanoan_languages) | 4 | 8
-[Lencan](https://glottolog.org/resource/languoid/id/lenc1239) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Lencan_languages) | 0 | 2
-[Lengua-Mascoy](https://glottolog.org/resource/languoid/id/leng1261) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Mascoian_languages) | 1 | 5
-[Maiduan](https://glottolog.org/resource/languoid/id/maid1262) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Maiduan_languages) | 0 | 4
-[Matacoan](https://glottolog.org/resource/languoid/id/mata1289) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Matacoan_languages) | 4 | 7
-[Mayan](https://glottolog.org/resource/languoid/id/maya1287) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Mayan_languages) | 24 | 33
-[Misumalpan](https://glottolog.org/resource/languoid/id/misu1242) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Misumalpan_languages) | 3 | 5
-[Miwok-Costanoan (Utian)](https://glottolog.org/resource/languoid/id/miwo1274) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Utian_languages) | 6 | 11
-[Mixe-Zoque](https://glottolog.org/resource/languoid/id/mixe1284) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Mixe%E2%80%93Zoque_languages) | 9 | 19
-[Muskogean](https://glottolog.org/resource/languoid/id/musk1252) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Muskogean_languages) | 2 | 7
-[Nadahup](https://glottolog.org/resource/languoid/id/nada1235) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nadahup_languages) | 2 | 4
-[Nambiquaran](https://glottolog.org/resource/languoid/id/namb1299) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nambikwaran_languages) | 3 | 6
-[Nuclear-Macro-Je](https://glottolog.org/resource/languoid/id/nucl1710) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Macro-J%C3%AA_languages) | 15 | 30
-[Otomanguean](https://glottolog.org/resource/languoid/id/otom1299) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Oto-Manguean_languages) | 70 | 180
-[Palaihnihan](https://glottolog.org/resource/languoid/id/pala1350) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Palaihnihan_languages) | 0 | 2
-[Pano-Tacanan](https://glottolog.org/resource/languoid/id/pano1259) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Pano-Tacanan_languages) | 21 | 45
-[Peba-Yagua](https://glottolog.org/resource/languoid/id/peba1241) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Peba%E2%80%93Yaguan_languages) | 1 | 3
-[Pomoan](https://glottolog.org/resource/languoid/id/pomo1273) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Pomoan_languages) | 4 | 7
-[Puri-Coroado](https://glottolog.org/resource/languoid/id/puri1261) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Purian_languages) | 0 | 2
-[Quechuan](https://glottolog.org/resource/languoid/id/quec1387) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Quechuan_languages) | 15 | 45
-[Sahaptian](https://glottolog.org/resource/languoid/id/saha1239) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Sahaptian_languages) | 3 | 5
-[Salishan](https://glottolog.org/resource/languoid/id/sali1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Salishan_languages) | 9 | 25
-[Shastan](https://glottolog.org/resource/languoid/id/shas1238) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Shastan_languages) | 0 | 3
-[Siouan](https://glottolog.org/resource/languoid/id/siou1252) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Siouan_languages) | 11 | 18
-[Tarascan](https://glottolog.org/resource/languoid/id/tara1323) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language) | 0 | 2
-[Tequistlatecan](https://glottolog.org/resource/languoid/id/tequ1244) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tequistlatecan_languages) | 0 | 3
-[Ticuna-Yuri](https://glottolog.org/resource/languoid/id/ticu1244) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Ticuna%E2%80%93Yuri_languages) | 0 | 2
-[Totonacan](https://glottolog.org/resource/languoid/id/toto1251) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Totonacan_languages) | 6 | 12
-[Tsimshian](https://glottolog.org/resource/languoid/id/tsim1258) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tsimshianic_languages) | 1 | 3
-[Tucanoan](https://glottolog.org/resource/languoid/id/tuca1253) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Tucanoan_languages) | 20 | 26
-[Tupian](https://glottolog.org/resource/languoid/id/tupi1275) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Tupian_languages) | 40 | 71
-[Uru-Chipaya](https://glottolog.org/resource/languoid/id/uruc1242) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Uru%E2%80%93Chipaya_languages) | 0 | 2
-[Uto-Aztecan](https://glottolog.org/resource/languoid/id/utoa1244) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Uto-Aztecan_languages) | 36 | 69
-[Wakashan](https://glottolog.org/resource/languoid/id/waka1280) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Wakashan_languages) | 4 | 6
-[Wintuan](https://glottolog.org/resource/languoid/id/wint1258) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Wintuan_languages) | 0 | 2
-[Xincan](https://glottolog.org/resource/languoid/id/xinc1237) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Xincan_languages) | 2 | 5
-[Yanomamic](https://glottolog.org/resource/languoid/id/yano1268) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Yanomaman_languages) | 3 | 5
-[Yokutsan](https://glottolog.org/resource/languoid/id/yoku1255) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yokutsan_languages) | 2 | 4
-[Yuki-Wappo](https://glottolog.org/resource/languoid/id/yuki1242) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yuki%E2%80%93Wappo_languages) | 0 | 2
-[Zamucoan](https://glottolog.org/resource/languoid/id/zamu1243) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Zamucoan_languages) | 1 | 3
-[Zaparoan](https://glottolog.org/resource/languoid/id/zapa1251) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Zaparoan_languages) | 4 | 6
+Langauge Family | | Geographic Area | Wikipedia Link | Sub-families | Child Languages
+----------------|-|-----------------|----------------|--------------|----------------
+[Algic](https://glottolog.org/resource/languoid/id/algi1248) | ![](images/families/algic.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Algic_languages) | 18 | 45
+[Araucanian](https://glottolog.org/resource/languoid/id/arau1255) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Araucanian_languages) |  0 | 2
+[Arawakan](https://glottolog.org/resource/languoid/id/araw1281) | ![](images/families/arawakan.svg) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Arawakan_languages) | 46 | 78
+[Arawan](https://glottolog.org/resource/languoid/id/araw1282) | ![](images/families/arawan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Arawan_languages) | 2 | 6
+[Athabaskan-Eyak-Tlingit (Na-Dene)](https://glottolog.org/resource/languoid/id/atha1245) | ![](images/families/na-dene.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Na-Dene_languages) | 16 | 45
+[Aymaran](https://glottolog.org/resource/languoid/id/ayma1253) | ![](images/families/aymaran.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Aymaran_languages) | 1 | 3
+[Barbacoan](https://glottolog.org/resource/languoid/id/barb1265) | ![](images/families/barbacoan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Barbacoan_languages) | 3 | 6
+[Boran](https://glottolog.org/resource/languoid/id/bora1262) | | South America | | 0 | 2
+[Bororoan](https://glottolog.org/resource/languoid/id/boro1281) | ![](images/families/bororoan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Bororoan_languages) | 1 | 3
+[Caddoan](https://glottolog.org/resource/languoid/id/cadd1255) | ![](images/families/caddoan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Caddoan_languages) | 3 | 5
+[Cahuapanan](https://glottolog.org/resource/languoid/id/cahu1265) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cahuapanan_languages) | 1 | 3
+[Cariban](https://glottolog.org/resource/languoid/id/cari1283) | ![](images/families/cariban.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Cariban_languages) | 22 | 42
+[Chapacuran](https://glottolog.org/resource/languoid/id/chap1271) | ![](images/families/chapacuran.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chapacuran_languages) | 9 | 12
+[Charruan](https://glottolog.org/resource/languoid/id/char1238) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Charruan_languages) | 0 | 3
+[Chibchan](https://glottolog.org/resource/languoid/id/chib1249) | ![](images/families/chibchan.svg) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Chibchan_languages) | 18 | 27
+[Chicham](https://glottolog.org/resource/languoid/id/jiva1245) | ![](images/families/chicham.svg) | South America | | 1 | 4
+[Chimakuan](https://glottolog.org/resource/languoid/id/chim1311) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chimakuan_languages) | 0 | 2
+[Chinookan](https://glottolog.org/resource/languoid/id/chin1490) | ![](images/families/chinookan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chinookan_languages) | 2 | 4
+[Chocoan](https://glottolog.org/resource/languoid/id/choc1280) | ![](images/families/chocoan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Choco_languages) | 6 | 9
+[Chonan](https://glottolog.org/resource/languoid/id/chon1288) | ![](images/families/chonan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Chonan_languages) | 2 | 4
+[Chumashan](https://glottolog.org/resource/languoid/id/chum1262) | ![](images/families/chumashan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Chumashan_languages) | 2 | 6
+[Cochimi-Yuman](https://glottolog.org/resource/languoid/id/coch1271) | ![](images/families/cochimi-yuman.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yuman%E2%80%93Cochim%C3%AD_languages) | 6 | 11
+[Coosan](https://glottolog.org/resource/languoid/id/coos1248) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Coosan_languages) | 0 | 2
+[Eskimo-Aleut](https://glottolog.org/resource/languoid/id/eski1264) | ![](images/families/eskimo-aleut.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Eskimo%E2%80%93Aleut_languages) | 5 | 12
+[Guahiboan](https://glottolog.org/resource/languoid/id/guah1252) | ![](images/families/guahiboan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Guajiboan_languages) | 2 | 5
+[Guaicuruan](https://glottolog.org/resource/languoid/id/guai1249) | ![](images/families/guaicuruan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Guaicuruan_languages) | 3 | 5
+[Haida](https://glottolog.org/resource/languoid/id/haid1248) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Haida_language) | 0 | 2
+[Harakmbut](https://glottolog.org/resource/languoid/id/hara1260) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Har%C3%A1kmbut_languages) | 0 | 2
+[Hibito-Cholon](https://glottolog.org/resource/languoid/id/hibi1242) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Hibito%E2%80%93Cholon_languages) | 0 | 2
+[Huarpean](https://glottolog.org/resource/languoid/id/huar1251) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Huarpean_languages) | 0 | 2
+[Huavean](https://glottolog.org/resource/languoid/id/huav1256) | ![](images/families/huavean.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Huave_language) | 2 | 4
+[Huitotoan](https://glottolog.org/resource/languoid/id/huit1251) | ![](images/families/huitotoan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Witotoan_languages) | 4 | 7
+[Iroquoian](https://glottolog.org/resource/languoid/id/iroq1247) | ![](images/families/iroquoian.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Iroquoian_languages) | 3 | 11
+[Jicaquean (Tol/Jicaque)](https://glottolog.org/resource/languoid/id/jica1245) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Jicaquean_languages) | 0 | 2
+[Jodi-Saliban](https://glottolog.org/resource/languoid/id/jodi1234) | ![](images/families/jodi-saliban.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Piaroa%E2%80%93Saliban_languages) | 2 | 4
+[Kakua-Nukak](https://glottolog.org/resource/languoid/id/kaku1242) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nukak_language) | 0 | 2
+[Kalapuyan](https://glottolog.org/resource/languoid/id/kala1402) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Kalapuyan_languages) | 0 | 3
+[Kamakanan](https://glottolog.org/resource/languoid/id/kama1371) | ![](images/families/kamakanan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kamak%C3%A3_languages) | 1 | 4
+[Kariri](https://glottolog.org/resource/languoid/id/kari1254) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kariri_languages) | 0 | 2
+[Katukinan](https://glottolog.org/resource/languoid/id/katu1274) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Katukinan_languages) | 0 | 2
+[Kawesqar](https://glottolog.org/resource/languoid/id/kawe1237) | ![](images/families/kawesqar.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Kaw%C3%A9sqar_language) | 1 | 3
+[Keresan](https://glottolog.org/resource/languoid/id/kere1287) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Keres_language) | 0 | 2
+[Kiowa-Tanoan](https://glottolog.org/resource/languoid/id/kiow1265) | ![](images/families/kiowa-tanoan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tanoan_languages) | 4 | 8
+[Lencan](https://glottolog.org/resource/languoid/id/lenc1239) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Lencan_languages) | 0 | 2
+[Lengua-Mascoy](https://glottolog.org/resource/languoid/id/leng1261) | ![](images/families/lengua-mascoy.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Mascoian_languages) | 1 | 5
+[Maiduan (Maidu/Nisenan)](https://glottolog.org/resource/languoid/id/maid1262) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Maiduan_languages) | 0 | 4
+[Matacoan](https://glottolog.org/resource/languoid/id/mata1289) | ![](images/families/matacoan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Matacoan_languages) | 4 | 7
+[Mayan](https://glottolog.org/resource/languoid/id/maya1287) | ![](images/families/mayan.svg) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Mayan_languages) | 24 | 33
+[Misumalpan](https://glottolog.org/resource/languoid/id/misu1242) | ![](images/families/misumalpan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Misumalpan_languages) | 3 | 5
+[Miwok-Costanoan (Utian)](https://glottolog.org/resource/languoid/id/miwo1274) | ![](images/families/miwok-costanoan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Utian_languages) | 6 | 11
+[Mixe-Zoque](https://glottolog.org/resource/languoid/id/mixe1284) | ![](images/families/mixe-zoque.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Mixe%E2%80%93Zoque_languages) | 9 | 19
+[Muskogean](https://glottolog.org/resource/languoid/id/musk1252) | ![](images/families/muskogean.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Muskogean_languages) | 2 | 7
+[Nadahup](https://glottolog.org/resource/languoid/id/nada1235) | ![](images/families/nadahup.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nadahup_languages) | 2 | 4
+[Nambiquaran](https://glottolog.org/resource/languoid/id/namb1299) | ![](images/families/nambiquaran.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Nambikwaran_languages) | 3 | 6
+[Nuclear-Macro-Je](https://glottolog.org/resource/languoid/id/nucl1710) | ![](images/families/nuclear-macro-je.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Macro-J%C3%AA_languages) | 15 | 30
+[Otomanguean](https://glottolog.org/resource/languoid/id/otom1299) | ![](images/families/otomanguean.svg) | North + South America | [Wikipedia](https://en.wikipedia.org/wiki/Oto-Manguean_languages) | 70 | 180
+[Palaihnihan](https://glottolog.org/resource/languoid/id/pala1350) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Palaihnihan_languages) | 0 | 2
+[Pano-Tacanan](https://glottolog.org/resource/languoid/id/pano1259) | ![](images/families/pano-tacanan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Pano-Tacanan_languages) | 21 | 45
+[Peba-Yagua](https://glottolog.org/resource/languoid/id/peba1241) | ![](images/families/peba-yagua.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Peba%E2%80%93Yaguan_languages) | 1 | 3
+[Pomoan](https://glottolog.org/resource/languoid/id/pomo1273) | ![](images/families/pomoan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Pomoan_languages) | 4 | 7
+[Puri-Coroado](https://glottolog.org/resource/languoid/id/puri1261) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Purian_languages) | 0 | 2
+[Quechuan](https://glottolog.org/resource/languoid/id/quec1387) | ![](images/families/quechuan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Quechuan_languages) | 15 | 45
+[Sahaptian](https://glottolog.org/resource/languoid/id/saha1239) | ![](images/families/sahaptian.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Sahaptian_languages) | 3 | 5
+[Salishan](https://glottolog.org/resource/languoid/id/sali1255) | ![](images/families/salishan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Salishan_languages) | 9 | 25
+[Shastan (Shasta/Konomihu)](https://glottolog.org/resource/languoid/id/shas1238) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Shastan_languages) | 0 | 3
+[Siouan](https://glottolog.org/resource/languoid/id/siou1252) | ![](images/families/siouan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Siouan_languages) | 11 | 18
+[Tarascan (Purepecha)](https://glottolog.org/resource/languoid/id/tara1323) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Pur%C3%A9pecha_language) | 0 | 2
+[Tequistlatecan (Chontal)](https://glottolog.org/resource/languoid/id/tequ1244) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tequistlatecan_languages) | 0 | 3
+[Ticuna-Yuri](https://glottolog.org/resource/languoid/id/ticu1244) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Ticuna%E2%80%93Yuri_languages) | 0 | 2
+[Totonacan](https://glottolog.org/resource/languoid/id/toto1251) | ![](images/families/totonacan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Totonacan_languages) | 6 | 12
+[Tsimshian](https://glottolog.org/resource/languoid/id/tsim1258) | ![](images/families/tsimshian.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Tsimshianic_languages) | 1 | 3
+[Tucanoan](https://glottolog.org/resource/languoid/id/tuca1253) | ![](images/families/tucanoan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Tucanoan_languages) | 20 | 26
+[Tupian](https://glottolog.org/resource/languoid/id/tupi1275) | ![](images/families/tupian.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Tupian_languages) | 40 | 71
+[Uru-Chipaya](https://glottolog.org/resource/languoid/id/uruc1242) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Uru%E2%80%93Chipaya_languages) | 0 | 2
+[Uto-Aztecan](https://glottolog.org/resource/languoid/id/utoa1244) | ![](images/families/uto-aztecan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Uto-Aztecan_languages) | 36 | 69
+[Wakashan](https://glottolog.org/resource/languoid/id/waka1280) | ![](images/families/wakashan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Wakashan_languages) | 4 | 6
+[Wintuan (Nomlaki/Wintu/Patwin)](https://glottolog.org/resource/languoid/id/wint1258) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Wintuan_languages) | 0 | 2
+[Xincan](https://glottolog.org/resource/languoid/id/xinc1237) | ![](images/families/xincan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Xincan_languages) | 2 | 5
+[Yanomamic](https://glottolog.org/resource/languoid/id/yano1268) | ![](images/families/yanomamic.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Yanomaman_languages) | 3 | 5
+[Yokutsan](https://glottolog.org/resource/languoid/id/yoku1255) | ![](images/families/yokutsan.svg) | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yokutsan_languages) | 2 | 4
+[Yuki-Wappo](https://glottolog.org/resource/languoid/id/yuki1242) | | North America | [Wikipedia](https://en.wikipedia.org/wiki/Yuki%E2%80%93Wappo_languages) | 0 | 2
+[Zamucoan](https://glottolog.org/resource/languoid/id/zamu1243) | | South America | [Wikipedia](https://en.wikipedia.org/wiki/Zamucoan_languages) | 1 | 3
+[Zaparoan](https://glottolog.org/resource/languoid/id/zapa1251) | ![](images/families/zaparoan.svg) | South America | [Wikipedia](https://en.wikipedia.org/wiki/Zaparoan_languages) | 4 | 6
 
 ## Language Isolates
 
@@ -229,54 +229,33 @@ These could change at the drop of a hat.
 * [Aztec–Tanoan languages](https://en.wikipedia.org/wiki/Aztec%E2%80%93Tanoan_languages) - 	Uto-Aztecan (Hopi, Tübatulabal, Numic, Serran, Cupan, Tarahumaran, Cahitan, Opata, Corachol, Piman, Nahuan), Kiowa–Tanoan (Tiwa, Tewa, Towa, Kiowa), Zuni(?).
 * [Hokan languages](https://en.wikipedia.org/wiki/Hokan_languages) - Karuk, Shasta-Palaihnihan, Ch’imáriko, Yana, Washo, Esselen, Salinan, Pomoan, Yuman, Seri, Coahuilteco, Comecrudan, Tequistlatecan, Jicaquean (Tolan), Lencan(?), Misumalpan(?) [last two could actually just be part of a sprachbund]
 * [Macro-Chibchan languages](https://en.wikipedia.org/wiki/Macro-Chibchan_languages) - Chibchan, Misulmalpan, Lencan
-* [Penutian languages](https://en.wikipedia.org/wiki/Penutian_languages) - Tsimshian, Chinook, Alsea, Siuslaw, Coos, Utian, Yokutsan, Maidu, Sahaptian, Molala, Klamath
+* [Yok-Utian](https://en.wikipedia.org/wiki/Yok-Utian_languages) - Miwok-Costanoan (Utian), Yokutsan
+* [Penutian languages](https://en.wikipedia.org/wiki/Penutian_languages) - This has changed a lot over the years.
+  * Original 1913 Proposal (Core Penutian) only includes: Maiduan, Miwok-Costanoan (Utian), Wintuan, Yokutsan
+  * Expanded in 1916 to add Oregon Penutian: Coosan, Siuslaw, Takelma
+  * In 1921, the Chinookan and Tsimshian families were added. Kalapuyan and Alsea-Yaquina were added to Oregon Penutian.
+  * In 1929, Sapir had added two more branches:
+    * Plateau Penutian: Klamath, Cayuse (not currently in the group), Molala, Sahaptian
+    * Mexican Penitian: Mixe-Zoque, Huave
+  * Current hypothesis:
+    * Tsimshian
+    * Chinook
+    * Coast Oregon Penutian: Alsea, Siuslaw, Coos
+    * Inland Penutian:
+      * Yok-Utian: Miwok-Costanoan (Utian), Yokutsan
+      * Maidu
+      * Plateau Penutian: Sahaptian, Molala, Klamath
+    * Specialists still include: Wintuan, Takelma, and Kalapuyan.
+* [Plateau Penutian](https://en.wikipedia.org/wiki/Plateau_Penutian_languages) - Klamath, Molala, and Sahaptian. [Only subgrouping of Penutian that has any proof behind it so far.]
 * [Totozoquean languages](https://en.wikipedia.org/wiki/Totozoquean_languages) - Totonac–Tepehua, Mixe–Zoque, Chitimacha
 * [Macro-Siouan languages](https://en.wikipedia.org/wiki/Macro-Siouan_languages) - Siouan, Yuchi, Caddoan, Iroquoian
 * [Mosan languages](https://en.wikipedia.org/wiki/Mosan_languages) - Chimakuan, Salishan, Wakashan [Considered a language area, as no successful reconstructions have occurred.]
-* [Algonquian–Wakashan languages (Almosan)](https://en.wikipedia.org/wiki/Algonquian%E2%80%93Wakashan_languages) - Algic, Sapir, Kutenai, Mosan, [Nivkh](https://en.wikipedia.org/wiki/Nivkh_language)
+* [Algonquian–Wakashan languages (Almosan)](https://en.wikipedia.org/wiki/Algonquian%E2%80%93Wakashan_languages) - Algic family, Kutenai, & Mosan Family. Some include [Nivkh](https://en.wikipedia.org/wiki/Nivkh_language) and even [Chukotko-Kamchatkan](https://en.wikipedia.org/wiki/Chukotko-Kamchatkan_languages)
+* [Uralo-Siberian](https://en.wikipedia.org/wiki/Uralo-Siberian_languages) - [Uralic](https://en.wikipedia.org/wiki/Uralic_languages), [Yukaghir](https://en.wikipedia.org/wiki/Yukaghir_languages), Eskimo–Aleut, possibly [Nivkh](https://en.wikipedia.org/wiki/Nivkh_language) and formerly [Chukotko-Kamchatkan](https://en.wikipedia.org/wiki/Chukotko-Kamchatkan_languages)
 * [Dené–Yeniseian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Yeniseian_languages#Sicoli_&_Holton_(2014)) - Athabaskan. Tlingit, Eyak, [Yeniseian](https://en.wikipedia.org/wiki/Yeniseian_languages), Haida
 * [Dené–Caucasian languages](https://en.wikipedia.org/wiki/Den%C3%A9%E2%80%93Caucasian_languages) - Dené-Yeniseian (incl. Haida), [North Caucasian](https://en.wikipedia.org/wiki/North_Caucasian_languages), [Sino-Tibetan](https://en.wikipedia.org/wiki/Sino-Tibetan_languages), [Burushaski](https://en.wikipedia.org/wiki/Burushaski), [Vasconic](https://en.wikipedia.org/wiki/Vasconic_languages), [Tyrsenian](https://en.wikipedia.org/wiki/Tyrsenian_languages) (sometimes included), [Sumerian](https://en.wikipedia.org/wiki/Sumerian_language) (sometimes included), Almosan (rarely included) [Bascially spans the entire world.]
 
-## Software Links
-
-### Linguistics Data Collection &amp; Analysis
-
-* [UCLA Department of Linguistics Software and Resources](https://linguistics.ucla.edu/research/software/)
-* [Research Software & Tools](https://experimentalfieldlinguistics.wordpress.com/links/software/) &mdash; includes links to further lists of software.
-* [SIL Linguistics Software List](https://www.sil.org/linguistics/linguistics-software)
-* [The Linguist List Software List](https://linguistlist.org/sp/GetWRListings.cfm?WRAbbrev=Software)
-* [Software in Speech, Hearing and Phonetic Sciences &mdash; Web Applications](https://www.phon.ucl.ac.uk/resource/software-web.php)
-* [Kura](https://sourceforge.net/projects/kura/)
-* [Platform for Annotated Corpora in XML](http://pacx.sourceforge.net/)
-* [Software for Linguistics](http://martinweisser.org/ling_soft.html)
-* [Natural Language Toolkit(Python)](http://www.nltk.org/)
-* [Aika is an artificial neural network designed specifically for the processing of natural language texts.](http://aika.network/)
-* [Aikuma Project](http://www.aikuma.org/)
-  * [LIG-Aikuma is a recording application for language documentation.](https://lig-aikuma.imag.fr/)
-  * [Zahwa is an app for sharing know-how using pictures and talk.](https://zahwa.aikuma.org/)
-  * [Stories in the original languages...](http://www.treasurelanguage.org/)
-  * [Aikuma Web Component Project](http://www.aikuma.org/components.html)
-  * [Celebrate International Year of Indigenous Languages](https://www.iyil.org/)
-* [ELAN is a professional tool for the creation of complex annotations on video and audio resources.](https://tla.mpi.nl/tools/tla-tools/elan/)
-* [EXMARaLDA is a system for working with oral corpora on a computer. It consists of a transcription and annotation tool (Partitur-Editor), a tool for managing corpora (Corpus-Manager) and a query and analysis tool (EXAKT).](https://exmaralda.org/en/about-exmaralda/)
-* [The Snack Sound Toolkit](http://www.speech.kth.se/snack/)
-* [TranscriberAG: a tool for segmenting, labeling and transcribing speech](http://transag.sourceforge.net/)
-* [RBRUL](http://www.danielezrajohnson.com/rbrul.html)
-* [The EAG project](http://www.cs.ru.nl/eag/)
-* [Praat: Doing Phonetics By Computer](https://github.com/praat/praat)
-  * [Using Praat for Linguistic Research](http://wstyler.ucsd.edu/praat/)
-* [KTH Speech, Music and Hearing Group Software List](www.speech.kth.se/software/)
-* [NVIDIA Accelerates Real Time Speech to Text Transcription 3500x with Kaldi](https://devblogs.nvidia.com/nvidia-accelerates-speech-text-transcription-3500x-kaldi/)
-* [Mixed Precision Training for NLP and Speech Recognition with OpenSeq2Seq](https://devblogs.nvidia.com/mixed-precision-nlp-speech-openseq2seq/)
-* [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/recursive-neural-networks-pytorch/)
-* [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](https://devblogs.nvidia.com/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
-* [CUDA Spotlight: GPU-Accelerated Speech Recognition](https://devblogs.nvidia.com/cuda-spotlight-gpu-accelerated-speech-recognition/)
-* [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
-* [Introduction to Neural Machine Translation with GPUs (Part 2)](https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-2/)
-* [Introduction to Neural Machine Translation with GPUs (part 3)](https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-3/)
-* [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/understanding-natural-language-deep-neural-networks-using-torch/)
-
-### Alphabets, Keyboards, Fonts
+## Writing Systems
 
 * [Alphabets/Syllabaries/Abugidas](https://en.wikipedia.org/wiki/List_of_writing_systems):
   * [Alphabet](https://en.wikipedia.org/wiki/Alphabet):
@@ -317,32 +296,73 @@ These could change at the drop of a hat.
     * [Quipu](http://www.ancientscripts.com/quipu.html) &amp; [Khipu Database Project](http://khipukamayuq.fas.harvard.edu/)
     * [komqwejwi'kasikl &mdash; Miꞌkmaq hieroglyphic writing](https://en.wikipedia.org/wiki/Mi%EA%9E%8Ckmaq_hieroglyphic_writing)
     * [komqwejwi'kasikl examples](https://web.archive.org/web/20050307222603/http://www.christusrex.org/www1/pater/JPN-micmac.html) &amp; [more komqwejwi'kasikl](https://www.ledevoir.com/culture/arts-visuels/326155/catalogue-d-exposition-90-artefacts-pour-90-ans)
-* Keyboards:
-  * [Keyman](https://keyman.com/) &mdash; On screen keyboard supporting over 1000 languages without extending it. Windows, Mac OS, iOS, Android, Linux, and web versions available. Can be extended to support any language. See [Keyman Developer](https://keyman.com/developer/) for more information on extending the keyboard. Would likely need many modifications to support spell checking, autocorrections, speech recognition, and text to speech; would also need a service developed to support such features.
-  * [International Phonetic Alphabet fonts and keyboards](https://www.gouskova.com/2016/09/04/international-phonetic-alphabet-fonts-and-keyboards/)
-  * [Canadian Aboriginal Keyboard](https://play.google.com/store/apps/details?id=klye.plugin.cr&hl=en_US) &mdash; Android keyboard.
-  * [FirstVoices Keyboards](https://itunes.apple.com/ca/app/firstvoices-keyboards/id1066651145?mt=8) &mdash; iOS keyboard for Canadian First Nations
-  * [Type IPA phonetic symbols](http://ipa.typeit.org/full/) &mdash; web based keybord, but not able to be integrated into a web app.
-  * Developing customs keyboards (but why when you can use Keyman):
-    * iOS:
-      * [Custom Keyboards](https://developer.apple.com/design/human-interface-guidelines/ios/extensions/custom-keyboards/)
-      * [Custom Keyboard](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/CustomKeyboard.html)
-      * [Creating a Custom Keyboard In IOS…](https://medium.com/swift-india/creating-a-custom-keyboard-in-ios-a75e7d5cc5ef)
-    * Android:
-      * [Create an input method](https://developer.android.com/guide/topics/text/creating-input-method)
-      * [Image keyboard support](https://developer.android.com/guide/topics/text/image-keyboard)
-      * [Let’s build a custom keyboard for Android](https://www.androidauthority.com/lets-build-custom-keyboard-android-832362/)
-      * [Spell checker framework](https://developer.android.com/guide/topics/text/spell-checker-framework) &mdash; This is one thing Keyman can't do, but this could also be combined with Keyman.
-* Conversion Tools:
-  * [Syllabics.net](http://www.syllabics.net/)
-* Fonts:
-  * [ScriptSource](https://scriptsource.org/)
-  * [Google Noto Fonts](https://www.google.com/get/noto/)
-  * [Unlocking the Mayan Hieroglyphic Script with Unicode](http://linguistics.berkeley.edu/sei/assets/unlocking-the-mayan-rev6-latest-sept2016.pdf)
-  * [Final proposal to encode the Osage script in the UCS](https://www.unicode.org/L2/L2014/14214-n4619-osage.pdf)
+
+## Software Links
+
+### Linguistics Data Collection &amp; Analysis
+
+* [UCLA Department of Linguistics Software and Resources](https://linguistics.ucla.edu/research/software/)
+* [Research Software & Tools](https://experimentalfieldlinguistics.wordpress.com/links/software/) &mdash; includes links to further lists of software.
+* [SIL Linguistics Software List](https://www.sil.org/linguistics/linguistics-software)
+* [The Linguist List Software List](https://linguistlist.org/sp/GetWRListings.cfm?WRAbbrev=Software)
+* [Software in Speech, Hearing and Phonetic Sciences &mdash; Web Applications](https://www.phon.ucl.ac.uk/resource/software-web.php)
+* [Kura](https://sourceforge.net/projects/kura/)
+* [Platform for Annotated Corpora in XML](http://pacx.sourceforge.net/)
+* [Software for Linguistics](http://martinweisser.org/ling_soft.html)
+* [Natural Language Toolkit(Python)](http://www.nltk.org/)
+* [Aika is an artificial neural network designed specifically for the processing of natural language texts.](http://aika.network/)
+* [Aikuma Project](http://www.aikuma.org/)
+  * [LIG-Aikuma is a recording application for language documentation.](https://lig-aikuma.imag.fr/)
+  * [Zahwa is an app for sharing know-how using pictures and talk.](https://zahwa.aikuma.org/)
+  * [Stories in the original languages...](http://www.treasurelanguage.org/)
+  * [Aikuma Web Component Project](http://www.aikuma.org/components.html)
+  * [Celebrate International Year of Indigenous Languages](https://www.iyil.org/)
+* [ELAN is a professional tool for the creation of complex annotations on video and audio resources.](https://tla.mpi.nl/tools/tla-tools/elan/)
+* [EXMARaLDA is a system for working with oral corpora on a computer. It consists of a transcription and annotation tool (Partitur-Editor), a tool for managing corpora (Corpus-Manager) and a query and analysis tool (EXAKT).](https://exmaralda.org/en/about-exmaralda/)
+* [The Snack Sound Toolkit](http://www.speech.kth.se/snack/)
+* [TranscriberAG: a tool for segmenting, labeling and transcribing speech](http://transag.sourceforge.net/)
+* [RBRUL](http://www.danielezrajohnson.com/rbrul.html)
+* [The EAG project](http://www.cs.ru.nl/eag/)
+* [Praat: Doing Phonetics By Computer](https://github.com/praat/praat)
+  * [Using Praat for Linguistic Research](http://wstyler.ucsd.edu/praat/)
+* [KTH Speech, Music and Hearing Group Software List](www.speech.kth.se/software/)
+* [NVIDIA Accelerates Real Time Speech to Text Transcription 3500x with Kaldi](https://devblogs.nvidia.com/nvidia-accelerates-speech-text-transcription-3500x-kaldi/)
+* [Mixed Precision Training for NLP and Speech Recognition with OpenSeq2Seq](https://devblogs.nvidia.com/mixed-precision-nlp-speech-openseq2seq/)
+* [Recursive Neural Networks with PyTorch](https://devblogs.nvidia.com/recursive-neural-networks-pytorch/)
+* [Deep Speech: Accurate Speech Recognition with GPU-Accelerated Deep Learning](https://devblogs.nvidia.com/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
+* [CUDA Spotlight: GPU-Accelerated Speech Recognition](https://devblogs.nvidia.com/cuda-spotlight-gpu-accelerated-speech-recognition/)
+* [Introduction to Neural Machine Translation with GPUs (part 1)](https://devblogs.nvidia.com/introduction-neural-machine-translation-with-gpus/)
+* [Introduction to Neural Machine Translation with GPUs (Part 2)](https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-2/)
+* [Introduction to Neural Machine Translation with GPUs (part 3)](https://devblogs.nvidia.com/introduction-neural-machine-translation-gpus-part-3/)
+* [Understanding Natural Language with Deep Neural Networks Using Torch](https://devblogs.nvidia.com/understanding-natural-language-deep-neural-networks-using-torch/)
+
+### Keyboards
+* [Keyman](https://keyman.com/) &mdash; On screen keyboard supporting over 1000 languages without extending it. Windows, Mac OS, iOS, Android, Linux, and web versions available. Can be extended to support any language. See [Keyman Developer](https://keyman.com/developer/) for more information on extending the keyboard. Would likely need many modifications to support spell checking, autocorrections, speech recognition, and text to speech; would also need a service developed to support such features.
+* [International Phonetic Alphabet fonts and keyboards](https://www.gouskova.com/2016/09/04/international-phonetic-alphabet-fonts-and-keyboards/)
+* [Canadian Aboriginal Keyboard](https://play.google.com/store/apps/details?id=klye.plugin.cr&hl=en_US) &mdash; Android keyboard.
+* [FirstVoices Keyboards](https://itunes.apple.com/ca/app/firstvoices-keyboards/id1066651145?mt=8) &mdash; iOS keyboard for Canadian First Nations
+* [Type IPA phonetic symbols](http://ipa.typeit.org/full/) &mdash; web based keybord, but not able to be integrated into a web app.
+* Developing customs keyboards (but why when you can use Keyman):
+  * iOS:
+    * [Custom Keyboards](https://developer.apple.com/design/human-interface-guidelines/ios/extensions/custom-keyboards/)
+    * [Custom Keyboard](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/CustomKeyboard.html)
+    * [Creating a Custom Keyboard In IOS…](https://medium.com/swift-india/creating-a-custom-keyboard-in-ios-a75e7d5cc5ef)
+  * Android:
+    * [Create an input method](https://developer.android.com/guide/topics/text/creating-input-method)
+    * [Image keyboard support](https://developer.android.com/guide/topics/text/image-keyboard)
+    * [Let’s build a custom keyboard for Android](https://www.androidauthority.com/lets-build-custom-keyboard-android-832362/)
+    * [Spell checker framework](https://developer.android.com/guide/topics/text/spell-checker-framework) &mdash; This is one thing Keyman can't do, but this could also be combined with Keyman.
+
+### Conversion Tools
+* [Syllabics.net](http://www.syllabics.net/)
+
+### Fonts
+* [ScriptSource](https://scriptsource.org/)
+* [Google Noto Fonts](https://www.google.com/get/noto/)
+* [Unlocking the Mayan Hieroglyphic Script with Unicode](http://linguistics.berkeley.edu/sei/assets/unlocking-the-mayan-rev6-latest-sept2016.pdf)
+* [Final proposal to encode the Osage script in the UCS](https://www.unicode.org/L2/L2014/14214-n4619-osage.pdf)
 
 ## Links Elsewhere
-
 * [Alberta Language Technology Lab: 21st Century Tools for Indigenous Languages](http://altlab.artsrn.ualberta.ca/tools-applications/)
 * [First Voices](https://www.firstvoices.com/explore/FV/sections/Data) - As of 16 Oct. 2018, this site has basic vocabulary and resources for 49 First Nation languages (Canada).
 * [ONYOTA’A:KÁ:](http://www.oneidaindiannation.com/onyotaakalanguage/)
