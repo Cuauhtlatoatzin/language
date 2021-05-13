@@ -276,7 +276,7 @@ These could change at the drop of a hat.
     * [Vai Syllabary](https://en.wikipedia.org/wiki/Vai_syllabary) &mdash; African, likely influenced by the Cherokee syllabary
     * [Zapotec](https://web.archive.org/web/20190327090135/http://www.ancientscripts.com/zapotec.html)
     * [Maya](https://web.archive.org/web/20190425131959/http://www.ancientscripts.com/maya.html)
-    * [A Maya Syllabary](http://www.pauahtun.org/MayanGlyphs/syllabary.html)
+    * [A Maya Syllabary](https://web.archive.org/web/20070704105519/http://www.pauahtun.org:80/MayanGlyphs/syllabary.html)
     * [Epi-Olmec](https://web.archive.org/web/20181224190325/http://www.ancientscripts.com/epiolmec.html)
     * [Teotihuacan](https://web.archive.org/web/20181012041627/http://www.ancientscripts.com/teotihuacan.html)
     * [Mixtec](https://web.archive.org/web/20181012033542/http://www.ancientscripts.com/mixtec.html)
