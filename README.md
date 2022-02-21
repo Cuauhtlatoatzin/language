@@ -25,6 +25,7 @@ Given the timeline of the presence of hominids on the continent and the nature o
 * [Hillert, Dieter G. On the Evolving Biology of Language. Front Psychol. 2015; 6: 1796.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4656830/)
 * [Interbreeding between archaic and modern humans](https://en.wikipedia.org/wiki/Interbreeding_between_archaic_and_modern_humans)
 * [Introduction to the Cuauhtlatoatzin Indigenous Peoples' History Repository](https://github.com/Cuauhtlatoatzin/indigenous-peoples-history/blob/master/README.md#origin-of-modern-humans-and-other-necessary-background)
+* [Garcia, M., Theunissen, F., Sèbe, F., Clavel, J., Ravignani, A., Marin-Cudraz, T., ... & Mathevon, N. (2020). Evolution of communication signals and information during species radiation. Nature communications, 11(1), 1-15.](https://doi.org/10.1038/s41467-020-18772-3) &mdash; Shows how communication changes and is adapted both within and across species.
 
 ## Proposed classification schemes for indigenous languages of the Americas
 
@@ -296,6 +297,12 @@ These could change at the drop of a hat.
     * [Quipu](http://www.ancientscripts.com/quipu.html) &amp; [Khipu Database Project](http://khipukamayuq.fas.harvard.edu/)
     * [komqwejwi'kasikl &mdash; Miꞌkmaq hieroglyphic writing](https://en.wikipedia.org/wiki/Mi%EA%9E%8Ckmaq_hieroglyphic_writing)
     * [komqwejwi'kasikl examples](https://web.archive.org/web/20050307222603/http://www.christusrex.org/www1/pater/JPN-micmac.html) &amp; [more komqwejwi'kasikl](https://www.ledevoir.com/culture/arts-visuels/326155/catalogue-d-exposition-90-artefacts-pour-90-ans)
+* History and Evolution of Writing
+  * [Ćwiek, A., Fuchs, S., Draxler, C., Asu, E. L., Dediu, D., Hiovain, K., ... & Winter, B. (2022). The bouba/kiki effect is robust across cultures and writing systems. Philosophical Transactions of the Royal Society B, 377(1841), 20200390.](https://doi.org/10.1098/rstb.2020.0390)
+  * [Miton, H., & Morin, O. (2021). Graphic complexity in writing systems. Cognition, 214, 104771.](https://doi.org/10.1016/j.cognition.2021.104771)
+  * [Höflmayer, F., Misgav, H., Webster, L., & Streit, K. (2021). Early alphabetic writing in the ancient Near East: the ‘missing link’from Tel Lachish. Antiquity, 1-15.](https://doi.org/10.15184/aqy.2020.157)
+  * [Kelly, P., Winters, J., Miton, H., & Morin, O. (2021). The predictable evolution of letter shapes: An emergent script of West Africa recapitulates historical change in writing systems. Current Anthropology, 62(6), 000-000.](https://www.journals.uchicago.edu/doi/10.1086/717779)
+  * [https://doi.org/10.1086/717779]
 
 ## Software Links
 
